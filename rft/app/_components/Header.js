@@ -35,7 +35,7 @@ function Header() {
                             <div className="sm:flex sm:gap-4">
                                 <a
                                     className="block rounded-md border border-secondary bg-secondary px-5 py-2.5 text-sm font-medium hover:text-secondary text-white transition hover:bg-primary"
-                                    href="#"
+                                    href="/files"
                                 >
                                     Get Started
                                 </a>
